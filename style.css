@@ -1,0 +1,29 @@
+div {
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    text-align: left;
+    padding: 10px;
+    color: white;
+    background-color: black;
+}
+span {
+    color: aqua;
+}
+
+h3 {
+    text-align: center;
+    padding: 10px;
+    color: white;
+    background-color: blueviolet;
+    font-style: italic;
+}
+
+h5 {
+    text-align: right;
+    text-decoration: underline;
+    padding: 10px;
+    background-color: skyblue;
+}
